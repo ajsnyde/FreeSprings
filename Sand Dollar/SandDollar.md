@@ -1,0 +1,6 @@
+# Sand Dollar System
+
+Located on privately owned property, Sand Dollar is a pristine cave system first explored in June, 2023. Location is secret, exploration ongoing. Plenty of beautiful features including tunnels lined with sand dollars and multiple alligator bones. The downstream side is pretty fragile and rotted limestone, while the upstream side contains bigger rooms and longer running passageway. There are various mounds made up entirely of calcium, rather than the usual silica. 3 different species of cave crayfish have been collected onsite, making this the 3rd-ish place in the state to contain that many species. Relatively shallow depths make for easy diving, but entry into the Sand Dollar sink involves a 7ft drop into water from a circular cliffside. A vulture lives in a small section of dry cave, though the babies have left the nest since we first explored it. Nearby Mung is almost certainly connected, but not yet. Mung has lots of breakdown to poke through.
+
+## Survey Notes
+The first [cave sketch](./CaveSketch1.jpeg) is pretty crude but shows a guesstimate at the downstream side, derived from GoPro footage. The [svg](SandDollar.svg) is a first attempt at something more professional, using faulty survey data. Either lines were moved or I really bungled something, but stations don't match GoPro footage.
